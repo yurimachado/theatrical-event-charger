@@ -96,7 +96,7 @@ https://github.com/andreariano/interview-tests/blob/master/INTERMEDIATE_TEST.md
   * Ubiquitous language: I tried as much as I could to bring the language used in the document into the code.
 
 * Clean Code
-  * Classes, Interfaces, Properties, Methods, etc were designed to be self-explained withou the needs for comments all of the code.
+  * Classes, Interfaces, Properties, Methods, etc were designed to be self-explained without the needs for comments all of the code.
 
 ## Database
 
