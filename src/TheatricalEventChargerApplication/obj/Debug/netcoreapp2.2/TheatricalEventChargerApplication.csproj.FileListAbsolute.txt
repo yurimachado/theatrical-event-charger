@@ -1,0 +1,16 @@
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerApplication.deps.json
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerApplication.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerDomain.Abstracts.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerDomain.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerRepository.Abstracts.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerDomain.Abstracts.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerDomain.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerRepository.Abstracts.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\obj\Debug\netcoreapp2.2\TheatricalEventChargerApplication.csprojAssemblyReference.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\obj\Debug\netcoreapp2.2\TheatricalEventChargerApplication.csproj.CoreCompileInputs.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\obj\Debug\netcoreapp2.2\TheatricalEventChargerApplication.AssemblyInfoInputs.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\obj\Debug\netcoreapp2.2\TheatricalEventChargerApplication.AssemblyInfo.cs
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\obj\Debug\netcoreapp2.2\TheatricalEventChargerApplication.csproj.CopyComplete
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\bin\Debug\netcoreapp2.2\TheatricalEventChargerApplication.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\obj\Debug\netcoreapp2.2\TheatricalEventChargerApplication.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerApplication\obj\Debug\netcoreapp2.2\TheatricalEventChargerApplication.pdb

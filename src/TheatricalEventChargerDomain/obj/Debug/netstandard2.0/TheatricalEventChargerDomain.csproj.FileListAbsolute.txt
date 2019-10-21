@@ -1,0 +1,12 @@
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\bin\Debug\netstandard2.0\TheatricalEventChargerDomain.deps.json
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\bin\Debug\netstandard2.0\TheatricalEventChargerDomain.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\bin\Debug\netstandard2.0\TheatricalEventChargerDomain.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\bin\Debug\netstandard2.0\TheatricalEventChargerDomain.Abstracts.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\bin\Debug\netstandard2.0\TheatricalEventChargerDomain.Abstracts.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\obj\Debug\netstandard2.0\TheatricalEventChargerDomain.csprojAssemblyReference.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\obj\Debug\netstandard2.0\TheatricalEventChargerDomain.csproj.CoreCompileInputs.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\obj\Debug\netstandard2.0\TheatricalEventChargerDomain.AssemblyInfoInputs.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\obj\Debug\netstandard2.0\TheatricalEventChargerDomain.AssemblyInfo.cs
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\obj\Debug\netstandard2.0\TheatricalEventChargerDomain.csproj.CopyComplete
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\obj\Debug\netstandard2.0\TheatricalEventChargerDomain.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerDomain\obj\Debug\netstandard2.0\TheatricalEventChargerDomain.pdb

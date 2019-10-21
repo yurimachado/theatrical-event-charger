@@ -1,0 +1,16 @@
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.deps.json
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerRepository.Abstracts.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerRepository.Abstracts.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\obj\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.csprojAssemblyReference.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\obj\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.csproj.CoreCompileInputs.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\obj\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.AssemblyInfoInputs.cache
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\obj\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.AssemblyInfo.cs
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\obj\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.csproj.CopyComplete
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerDomain.Abstracts.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerDomain.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerDomain.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerDomain.Abstracts.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\bin\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.pdb
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\obj\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.dll
+C:\Users\ycama\source\repos\TheatricalEventCharger\TheatricalEventChargerRepository.DocumentStore\obj\Debug\netcoreapp2.2\TheatricalEventChargerRepository.DocumentStore.pdb
