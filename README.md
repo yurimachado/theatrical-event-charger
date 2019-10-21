@@ -1,6 +1,6 @@
 # Solution Details
 
-This solution is related to the link bellow:
+This solution is related to the following link:
 https://github.com/andreariano/interview-tests/blob/master/INTERMEDIATE_TEST.md
 
 ## Tools
