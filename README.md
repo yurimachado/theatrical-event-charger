@@ -13,22 +13,22 @@
 ## Third-party Nuget Packages
 
 * Presentation And Application Layer 
-  * MediatR >= 7.0.0
-  * FluentValidator 8.5.0
-  * RavenDB.Client 4.2.4
+  * MediatR: 7.0.0
+  * FluentValidator: 8.5.0
+  * RavenDB.Client: 4.2.4
 
 * Repository / Implementation
-  * RavenDB.Client 4.2.4
+  * RavenDB.Client: 4.2.4
 
 ## Configuration
 
 * Development
   * appsettings.Development.json
-    *RavenDB Example:   
+    *RavenDB Settings example:   
 		"Raven": {
-					"Url": "http://localhost:8080",
-					"Database": "TheatricalEventChargerServerDB"
-				 }
+				"Url": "http://localhost:8080",
+				"Database": "TheatricalEventChargerServerDB"
+			 }
 * Production
   * appsettings.json
 
@@ -52,7 +52,7 @@
 	* Unit Tests (TheatricalEventChargerDomain.UnitTests).
 
 * Repository Layer
-  * Responsible only for Persisting the data processed.
+  * Responsible only for Persisting data.
   * Composed by:
     * Abstract (TheatricalEventChargerRepository.Abstracts);
 	  * IReadOnlyRepository was created to allowing Database sharing respecting the boundaries between contexts, which is 
@@ -64,16 +64,16 @@
 
 * Mediator
   * Dependency Package: MediatR;
-  * This pattern is used to hide method implementation from explicit call, reducing direct dependencies.
+  * This pattern is used to hide methods implementation from explicit calls, decoupling the Presentation Layer from Application Layer.
 
 * Strategy
   * Dependency Package: Standard2.0;
-  * It allows creating classes with diferent Bill Calculation Strategies, which can be switched at runtime in some point in the application.
+  * It allows creating classes with diferent Bill Calculation Strategies, which can be switched over at runtime depending on the kind of play being calculated.
 
 * Service Factory
   * Dependency Package: Standard2.0;
-  * This pattern is the key for varying the Bill Calculation Strategy according to the kind of play performance being calculated.  
-
+  * The Service Factory pattern provides an instance of a Bill Calculation Strategy taking into account the kind of play and instance availability, in case no instance is found a default one is provided. It's also possible define customized default bill Calculation strategy since the set of stragegies are initialized outside the factory.
+  
 ## Concepts
 
 * SOLID
@@ -99,15 +99,7 @@
 
 * Raven DB
 
-  * I did hard code RavenDB Database creation and seed for Theatrical Play Catalog information. 
-
-## Comments
-
-* I should have used also AutoMapper to make Controller Models mapping to Application Model much easier and cleaner.
-
-* We can find some fragments of REST through URL representation and successfull (200) 
-  and Unprocessable (422) status code kind of results, but of course, more can be done, like, supporting Head for Service discoveryability, 
-  adding support for other content formats (i.e XML), filters, pagination and another stuff for future Http Verbs.
+  * I hard-coded RavenDB's Database creation and seed for Theatrical Play Catalog information for the sake of simplicity. 
 
 ## Support
 
