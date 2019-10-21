@@ -106,4 +106,4 @@ https://github.com/andreariano/interview-tests/blob/master/INTERMEDIATE_TEST.md
 
 ## Support
 
-* Few free to reach me out at ycmachado@gmail.com in case of facing any issue in running the project.
+* Few free to reach me out at ycmachado@gmail.com in case of facing any issue while running the project.
