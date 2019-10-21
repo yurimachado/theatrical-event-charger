@@ -1,5 +1,8 @@
 # Solution Details
 
+This solution is related to the link bellow:
+https://github.com/andreariano/interview-tests/blob/master/INTERMEDIATE_TEST.md
+
 ## Tools
 
 * Visual Studion 2017 Community
