@@ -45,10 +45,10 @@ https://github.com/andreariano/interview-tests/blob/master/INTERMEDIATE_TEST.md
   * Manage Http Requests and Responses
 
 * Application Layer
-  * Orchestrate Repository and Domain Objects and determines how they relate with each other.
+  * Orchestrate Repositories and Domain Objects and determines how they relate with each other.
 
 * Domain Layer
-  * Here sits all Business rules concerned with Theatrical Event Charge
+  * Here sits all Business logic related to the Theatrical Event Charge domain.
   * Composed by: 
     * Abstract (TheatricalEventChargerDomain.Abstracts);
     * Implentation (TheatricalEventChargerDomain);
@@ -96,7 +96,7 @@ https://github.com/andreariano/interview-tests/blob/master/INTERMEDIATE_TEST.md
   * Ubiquitous language: I tried as much as I could to bring the language used in the document into the code.
 
 * Clean Code
-  * Classes, Interfaces, Properties, Methods, etc were designed to be self-explained without the needs for comments all of the code.
+  * Classes, Interfaces, Properties, Methods, etc were designed to be self-explained without the needs for commenting all over the code.
 
 ## Database
 
